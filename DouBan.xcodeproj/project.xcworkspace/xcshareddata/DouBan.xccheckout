@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>070EA7B5-8F38-46EB-A8F9-7CA64F4E434F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DouBan</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>56F3F743C1E5B7F33643AD53C2A9EB592F155BAD</key>
+		<string>https://github.com/wangzilong521/zhumulangma.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DouBan.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>56F3F743C1E5B7F33643AD53C2A9EB592F155BAD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wangzilong521/zhumulangma.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>56F3F743C1E5B7F33643AD53C2A9EB592F155BAD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>56F3F743C1E5B7F33643AD53C2A9EB592F155BAD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>zhumulangma</string>
+		</dict>
+	</array>
+</dict>
+</plist>

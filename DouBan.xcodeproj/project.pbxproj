@@ -89,6 +89,7 @@
 		1B601EED1B2F4822009B6B5E /* FileHandle.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B601EEC1B2F4822009B6B5E /* FileHandle.m */; };
 		C232395F1B2FAF63008A0323 /* ActivityCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C232395D1B2FAF63008A0323 /* ActivityCell.m */; };
 		C23239601B2FAF63008A0323 /* ActivityCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = C232395E1B2FAF63008A0323 /* ActivityCell.xib */; };
+		C25284B41B40095B0090CEA0 /* Pe.m in Sources */ = {isa = PBXBuildFile; fileRef = C25284B31B40095B0090CEA0 /* Pe.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -215,6 +216,8 @@
 		C232395C1B2FAF63008A0323 /* ActivityCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ActivityCell.h; sourceTree = "<group>"; };
 		C232395D1B2FAF63008A0323 /* ActivityCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ActivityCell.m; sourceTree = "<group>"; };
 		C232395E1B2FAF63008A0323 /* ActivityCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ActivityCell.xib; sourceTree = "<group>"; };
+		C25284B21B40095B0090CEA0 /* Pe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Pe.h; sourceTree = "<group>"; };
+		C25284B31B40095B0090CEA0 /* Pe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Pe.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -537,6 +540,8 @@
 			children = (
 				1B601EB21B2F38A5009B6B5E /* Activity.h */,
 				1B601EB31B2F38A5009B6B5E /* Activity.m */,
+				C25284B21B40095B0090CEA0 /* Pe.h */,
+				C25284B31B40095B0090CEA0 /* Pe.m */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -809,6 +814,7 @@
 				1B601DF01B2F3070009B6B5E /* AppDelegate.m in Sources */,
 				1B601E951B2F33CA009B6B5E /* DataBaseManager.m in Sources */,
 				1B601E821B2F32F7009B6B5E /* ImageDownLoader.m in Sources */,
+				C25284B41B40095B0090CEA0 /* Pe.m in Sources */,
 				1B601ED61B2F39D4009B6B5E /* MovieDetailViewController.m in Sources */,
 				1B601EA61B2F37AB009B6B5E /* MyDetailViewController.m in Sources */,
 				1B601EC61B2F394F009B6B5E /* UserTableViewController.m in Sources */,
